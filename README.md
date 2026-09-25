@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **BurntToast is no longer maintained.**
+>
+> This repository has been archived. I no longer have the time to give the project the attention it needs.
+>
+> The code and existing releases remain available, but there will be no further updates, bug fixes, or support from me. You’re welcome to fork the project and continue development under its existing license.
+>
+> Thank you to everyone who has used BurntToast, contributed improvements, and helped others along the way. I’m proud of what this project has made possible, and grateful to have been part of it.
+
 # BurntToast
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5c96b736ff1b45d98666160ab37dcad5)](https://www.codacy.com/manual/Windos/BurntToast?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Windos/BurntToast&amp;utm_campaign=Badge_Grade)
